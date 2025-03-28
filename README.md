@@ -1,0 +1,2 @@
+# Download_GarminData_GenerateTransparent
+从佳明处下载跑步数据，然后提取并分割，最后生成帧序列
