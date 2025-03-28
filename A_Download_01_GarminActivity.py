@@ -20,8 +20,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # 设置电子邮件和密码
-email = "ckn69734@gmail.com"  # 替换为你的电子邮件
-password = "Ckn69734"        # 替换为你的密码
+email = ""  # 替换为你的电子邮件
+password = ""        # 替换为你的密码
 tokenstore = os.getenv("GARMINTOKENS") or "~/.garminconnect"
 api = None
 
